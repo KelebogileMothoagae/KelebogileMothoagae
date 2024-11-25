@@ -16,5 +16,3 @@ To build impactful solutions for underprivileged communities and inspire others 
 
 🚀 Let’s collaborate on coding challenges, innovative projects, and open-source contributions!
 
-
-![Uploading Mappr_Front_End_Developer_md.gif…]()
